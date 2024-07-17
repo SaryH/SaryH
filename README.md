@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1>About Me 📌</h1>
 
 - 👋 I am Sary Hammad
-- 🔭 I am currently a Computer Engineering student at Birzeit University
+- 🔭 I am a Software/AI Engineer
 - 💻 I have experience in leading as I am currently the Google Developer Student Club Leader at my university
-- 😎 Throughout my two year experience in the GDSC, I was responsible for teaching over 500 students
+- 😎 Throughout my three year experience in the GDSC, I was responsible for teaching over 800 students
 
 <br />
 
